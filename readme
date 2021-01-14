@@ -1,0 +1,17 @@
+This is the phase 4 of the SafeBox project:
+----------------------------------------------
+
+You now have a user friendly program
+
+you just type the command and the program executes 
+
+the six commands of the program: 
+
+1- list 
+2- delete 
+3- import 
+4- export 
+5- exit 
+6- commit 
+
+you don't have to type any long commands anymore 
